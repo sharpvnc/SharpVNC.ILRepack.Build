@@ -4,6 +4,7 @@ License
 - Modified 2007 Marcus Griep (neoeinstein+boo@gmail.com)
 - Modified 2013 Peter Sunde (peter.sunde@gmail.com)
 - Modified 2016 Ravi Patel (www.rbsoft.org)
+- Copyright (c) SharpVNC Limited 2023. Registered office: Office One, 1 Coldbath Square, London, United Kingdom, EC1R 5HL.
 
 All rights reserved.
 
